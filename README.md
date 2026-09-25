@@ -1,6 +1,6 @@
 # Hi, I'm Sunday! 👋
 
-I'm an aspiring Software Developer from Enugu, Nigeria.
+I'm an aspiring Software Developer from Rivers, Nigeria.
 This is my first repository.
 
 - 🌱 Learning: Web Development (HTML, CSS, JavaScript)
